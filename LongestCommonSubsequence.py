@@ -1,4 +1,4 @@
-#Longest Common Subsequence
+#Longest Common Subsequence 
 
 text1 = "bacbacbd"
 text2 = "bacbd"
