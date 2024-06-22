@@ -25,7 +25,7 @@ We encourage contributions from the community. If you have improvements, additio
 1. Clone this repository to your local machine.
 
 ```bash
-git clone [https://github.com/sudharson-c/DSA](https://github.com/sudharson-c/DSA).git
+git clone https://github.com/sudharson-c/DSA.git
 ```
 2. Explore the data-structures and algorithms directories to find specific implementations.
 3. Use the code as a reference for your projects. Feel free to modify and experiment with the code.
